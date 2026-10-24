@@ -1,0 +1,104 @@
+# Batch 04 editorial evidence
+
+Local only. Source passages read before authoring; citations below support each answer.
+
+- **b04-pianist** — What is Kim Dong-sik's musical profession in The Housemaid (1960)? **Pianist.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); The Housemaid section.
+- **b04-butterflies** — What insects does the biologist collect in Suddenly in Dark Night (1981)? **Butterflies.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); Suddenly in Dark Night section.
+- **b04-phonejob** — What is Ji-won's profession in Phone (2002)? **Journalist.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); Phone section.
+- **b04-sonata** — Which Beethoven sonata is played by a ghost in Phone (2002)? **Moonlight Sonata.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); Phone section.
+- **b04-joseon** — A Tale of Two Sisters (2003) draws on a tale from which Korean dynasty? **Joseon.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); A Tale of Two Sisters section.
+- **b04-rpoint** — In which war-torn country is R-Point (2004) set in 1972? **Vietnam.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); R-Point section.
+- **b04-priest** — What religious vocation does Sang-hyun have in Thirst (2009)? **Catholic priest.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); Thirst section.
+- **b04-wailing** — What is Jong-gu's job in The Wailing (2016)? **Police officer.** [Source](https://www.bfi.org.uk/lists/10-great-south-korean-horror-films); The Wailing section.
+- **b04-convento** — What religious building shelters the travelers in El fantasma del convento (1934)? **A monastery.** [Source](https://www.bfi.org.uk/lists/10-great-mexican-horror-films); El fantasma del convento section.
+- **b04-lucha** — Which Mexican wrestling tradition mixes with horror in The Body Snatcher (1957)? **Lucha libre.** [Source](https://www.bfi.org.uk/lists/10-great-mexican-horror-films); The Body Snatcher section.
+- **b04-comet** — What celestial object brings the baron back in The Brainiac (1962)? **A comet.** [Source](https://www.bfi.org.uk/lists/10-great-mexican-horror-films); The Brainiac section.
+- **b04-bermudadoll** — What eerie toy is found floating at sea in The Bermuda Triangle (1978)? **A doll.** [Source](https://www.bfi.org.uk/lists/10-great-mexican-horror-films); The Bermuda Triangle section.
+- **b04-estrella** — What is the young heroine called in Tigers Are Not Afraid (2017)? **Estrella.** [Source](https://www.bfi.org.uk/lists/10-great-mexican-horror-films); Tigers Are Not Afraid section.
+- **b04-centuries** — How many centuries pass before the baron returns in The Brainiac (1962)? **Three.** [Source](https://www.bfi.org.uk/lists/10-great-mexican-horror-films); 1661 and 1961 in The Brainiac section.
+- **b04-hurt** — Who plays the experimenting professor in Altered States (1980)? **William Hurt.** [Source](https://www.bfi.org.uk/lists/10-great-body-horror-films); Altered States section.
+- **b04-goldblum** — Who plays the inventor in The Fly (1986)? **Jeff Goldblum.** [Source](https://www.bfi.org.uk/lists/10-great-body-horror-films); The Fly section.
+- **b04-teleport** — Which technology is being tested when the accident occurs in The Fly (1986)? **Teleportation.** [Source](https://www.bfi.org.uk/lists/10-great-body-horror-films); The Fly section.
+- **b04-toronto** — In which Canadian city was The Fly (1986) filmed? **Toronto.** [Source](https://www.bfi.org.uk/lists/10-great-body-horror-films); The Fly section.
+- **b04-aylmer** — What is the parasitic creature called in Brain Damage (1988)? **Aylmer.** [Source](https://www.bfi.org.uk/lists/10-great-body-horror-films); Brain Damage section.
+- **b04-amity** — Which island community is threatened by the shark in Jaws (1975)? **Amity Island.** [Source](https://www.bfi.org.uk/lists/10-great-shark-attack-films); Jaws section.
+- **b04-benchley** — Who wrote the novel adapted as Jaws (1975)? **Peter Benchley.** [Source](https://www.bfi.org.uk/lists/10-great-shark-attack-films); Jaws section.
+- **b04-brody** — What is the police chief's full name in Jaws (1975)? **Martin Brody.** [Source](https://www.bfi.org.uk/lists/10-great-shark-attack-films); Jaws section.
+- **b04-hooper** — What scientific profession does Matt Hooper practice in Jaws (1975)? **Oceanographer.** [Source](https://www.bfi.org.uk/lists/10-great-shark-attack-films); Jaws section.
+- **b04-mako** — Which kind of shark is genetically modified in Deep Blue Sea (1999)? **Mako sharks.** [Source](https://www.bfi.org.uk/lists/10-great-shark-attack-films); Deep Blue Sea section.
+- **b04-lively** — Who plays stranded surfer Nancy in The Shallows (2016)? **Blake Lively.** [Source](https://www.bfi.org.uk/lists/10-great-shark-attack-films); The Shallows section.
+- **b04-gargoyle** — What practical job does a traditional architectural gargoyle perform? **Draining rainwater away from a building.** [Source](https://www.merriam-webster.com/dictionary/gargoyle); Definition 1a.
+- **b04-jackalope** — A jackalope combines a jackrabbit's body with the horns of which animal? **An antelope.** [Source](https://www.merriam-webster.com/dictionary/jackalope); Definition.
+- **b04-yeti** — What other name is given to the legendary yeti? **The abominable snowman.** [Source](https://www.merriam-webster.com/dictionary/yeti); Definition.
+- **b04-amphisbaena** — Where are the two heads of the mythical amphisbaena located? **One at each end of its body.** [Source](https://www.merriam-webster.com/dictionary/amphisbaena); Definition.
+- **b04-leviathan** — Which biblical sea monster lends its name to something enormous and powerful? **Leviathan.** [Source](https://www.merriam-webster.com/dictionary/leviathan); Definition 1 and Did You Know.
+- **b04-behemoth** — In which biblical book is the mighty beast Behemoth described? **The Book of Job.** [Source](https://www.merriam-webster.com/dictionary/behemoth); Definition 1.
+- **b04-fomorian** — The Fomorians, legendary sea raiders, belong to which tradition? **Celtic legend.** [Source](https://www.merriam-webster.com/dictionary/fomorian); Definition.
+- **b04-scry** — What is the fortune-telling practice of crystal gazing also called? **Scrying.** [Source](https://www.merriam-webster.com/dictionary/scry); Verb, intransitive definition.
+- **b04-oneiro** — Oneiromancy attempts to tell the future by interpreting what? **Dreams.** [Source](https://www.merriam-webster.com/dictionary/oneiromancy); Definition.
+- **b04-chiro** — Chiromancy is another name for which form of divination? **Palmistry.** [Source](https://www.merriam-webster.com/dictionary/chiromancy); Definition.
+- **b04-carto** — What everyday gaming objects are used in cartomancy? **Playing cards.** [Source](https://www.merriam-webster.com/dictionary/cartomancy); Definition.
+- **b04-augury** — Ancient augurs interpreted the flight patterns of which animals? **Birds.** [Source](https://www.merriam-webster.com/dictionary/augury); Definition example.
+- **b04-unicorn** — Where on a traditional unicorn's head is its single horn? **In the middle of its forehead.** [Source](https://www.merriam-webster.com/dictionary/unicorn); Definition 1a.
+- **b04-manes** — Which ancient civilization honored the spirits of the dead called Manes? **Ancient Rome.** [Source](https://www.merriam-webster.com/dictionary/manes); Definition 1.
+- **b04-lemures** — In early Roman belief, were lemures spirits of the buried or unburied dead? **The unburied dead.** [Source](https://www.merriam-webster.com/dictionary/lemures); Definition.
+- **b04-thaumaturgy** — What does thaumaturgy mean: the performance of miracles or the study of insects? **The performance of miracles.** [Source](https://www.merriam-webster.com/dictionary/thaumaturgy); Definition.
+- **b04-stone** — What legendary substance did alchemists seek to transform base metals into gold? **The philosopher's stone.** [Source](https://www.merriam-webster.com/dictionary/philosopher%27s%20stone); Definition.
+- **b04-ectoplasm** — What substance supposedly allows spirits to materialize in spiritualist belief? **Ectoplasm.** [Source](https://www.merriam-webster.com/dictionary/ectoplasm); Definition 2; a belief, not an established phenomenon.
+- **b04-pentagram** — How many points does the usual occult pentagram have? **Five.** [Source](https://www.merriam-webster.com/dictionary/pentagram); Primary definition.
+- **b04-coven** — What is a gathering or band of witches called? **A coven.** [Source](https://www.merriam-webster.com/dictionary/coven); Definition 2; no fixed size asserted.
+- **b04-biblio** — Bibliomancy uses what kind of object to seek predictions? **Books.** [Source](https://www.merriam-webster.com/dictionary/bibliomancy); Definition.
+- **b04-lar** — What did the Lares protect in ancient Roman religion? **The household.** [Source](https://www.merriam-webster.com/dictionary/lar); Definition.
+- **b04-bigfoot** — What is the other common name for Sasquatch? **Bigfoot.** [Source](https://www.merriam-webster.com/dictionary/bigfoot); Definition 1.
+- **b04-abra** — Abracadabra is traditionally a magical charm or what kind of spoken formula? **An incantation.** [Source](https://www.merriam-webster.com/dictionary/abracadabra); Definition 1.
+- **b04-fairyring** — Which fungi can grow in the circular formations called fairy rings? **Mushrooms.** [Source](https://www.merriam-webster.com/dictionary/fairy%20ring); Definition 1.
+- **b04-blackwood** — Who wrote the supernatural tale The Willows? **Algernon Blackwood.** [Source](https://www.gutenberg.org/files/11438/11438-h/11438-h.htm); Title and author.
+- **b04-danube** — Which river carries the travelers in The Willows? **The Danube.** [Source](https://www.gutenberg.org/files/11438/11438-h/11438-h.htm); Part I opening.
+- **b04-canoe** — What kind of boat do the travelers use in The Willows? **A canoe.** [Source](https://www.gutenberg.org/files/11438/11438-h/11438-h.htm); Part I: Canadian canoe.
+- **b04-chambers** — Who wrote the story collection The King in Yellow? **Robert W. Chambers.** [Source](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm); Title and author.
+- **b04-carcosa** — Which mysterious place is named in Cassilda's Song in The King in Yellow? **Carcosa.** [Source](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm); Opening epigraph.
+- **b04-twinsuns** — How many suns sink behind the lake in Cassilda's Song? **Two.** [Source](https://www.gutenberg.org/files/8492/8492-h/8492-h.htm); Opening epigraph: twin suns.
+- **b04-hodgson** — Who wrote The House on the Borderland? **William Hope Hodgson.** [Source](https://www.gutenberg.org/cache/epub/10002/pg10002-images.html); Title and author.
+- **b04-pepper** — What is the recluse's dog called in The House on the Borderland? **Pepper.** [Source](https://www.gutenberg.org/cache/epub/10002/pg10002-images.html); Chapters II and V.
+- **b04-mary** — What is the recluse's sister called in The House on the Borderland? **Mary.** [Source](https://www.gutenberg.org/cache/epub/10002/pg10002-images.html); Chapters VII and X.
+- **b04-ireland** — The manuscript in The House on the Borderland is found in which country? **Ireland.** [Source](https://www.gutenberg.org/cache/epub/10002/pg10002-images.html); Subtitle and Chapter I.
+- **b04-polidori** — Who wrote the early vampire tale The Vampyre? **John William Polidori.** [Source](https://www.gutenberg.org/files/6087/6087-h/6087-h.htm); Title and author.
+- **b04-ruthven** — What is the aristocratic vampire's name in Polidori's The Vampyre? **Lord Ruthven.** [Source](https://www.gutenberg.org/files/6087/6087-h/6087-h.htm); Opening narrative and travel arrangement.
+- **b04-aubrey** — Which young gentleman travels with Lord Ruthven in The Vampyre? **Aubrey.** [Source](https://www.gutenberg.org/files/6087/6087-h/6087-h.htm); Opening narrative.
+- **b04-austen** — Who wrote the Gothic satire Northanger Abbey? **Jane Austen.** [Source](https://www.gutenberg.org/files/121/121-h/121-h.htm); Title and author.
+- **b04-morland** — Who is the Gothic-novel-loving heroine of Northanger Abbey? **Catherine Morland.** [Source](https://www.gutenberg.org/files/121/121-h/121-h.htm); Chapter 1 opening.
+- **b04-bath** — Which spa city does Catherine visit early in Northanger Abbey? **Bath.** [Source](https://www.gutenberg.org/files/121/121-h/121-h.htm); Chapter 2 opening.
+- **b04-coleridge** — Who wrote The Rime of the Ancient Mariner? **Samuel Taylor Coleridge.** [Source](https://www.gutenberg.org/files/151/151-h/151-h.htm); Title and author.
+- **b04-albatross** — Which bird does the Ancient Mariner shoot? **An albatross.** [Source](https://www.gutenberg.org/files/151/151-h/151-h.htm); Part the First.
+- **b04-wedding** — What celebration is the Ancient Mariner's listener on his way to attend? **A wedding.** [Source](https://www.gutenberg.org/files/151/151-h/151-h.htm); Part the First: Wedding-Guest.
+- **b04-rossetti** — Who wrote the poem Goblin Market? **Christina Rossetti.** [Source](https://www.gutenberg.org/files/19188/19188-h/19188-h.htm); Title and Goblin Market section.
+- **b04-sisters** — What are the two sisters' names in Goblin Market? **Laura and Lizzie.** [Source](https://www.gutenberg.org/files/19188/19188-h/19188-h.htm); Goblin Market opening.
+- **b04-fruit** — What tempting goods do the merchants sell in Goblin Market? **Fruit.** [Source](https://www.gutenberg.org/files/19188/19188-h/19188-h.htm); Goblin Market opening.
+- **b04-salem** — Which village does Young Goodman Brown leave at sunset? **Salem.** [Source](https://www.gutenberg.org/files/512/512-h/512-h.htm); Young Goodman Brown opening.
+- **b04-faith** — What is Goodman Brown's wife called? **Faith.** [Source](https://www.gutenberg.org/files/512/512-h/512-h.htm); Young Goodman Brown opening.
+- **b04-ribbons** — What color are Faith's cap ribbons in Young Goodman Brown? **Pink.** [Source](https://www.gutenberg.org/files/512/512-h/512-h.htm); Young Goodman Brown opening.
+- **b04-bhutan** — The sacred Drametse mask dance comes from which Himalayan country? **Bhutan.** [Source](https://www.unesco.org/archives/multimedia/document-614); Description and place.
+- **b04-padmasambhava** — Which Buddhist guru is honored by the Drametse mask dance? **Padmasambhava.** [Source](https://www.unesco.org/archives/multimedia/document-614); Description.
+- **b04-twice** — How often each year is the Drametse festival held? **Twice.** [Source](https://www.unesco.org/archives/multimedia/document-614); Description.
+- **b04-organizer** — A monastery or a royal palace organizes the Drametse mask-dance festival? **A monastery.** [Source](https://www.unesco.org/archives/multimedia/document-614); Description: Ogyen Tegchok Namdroel Choeling Monastery.
+- **b04-zambia** — The Makishi masquerade described by UNESCO is practiced in which country? **Zambia.** [Source](https://www.unesco.org/archives/multimedia/document-644); Description.
+- **b04-mukanda** — Which initiation ritual concludes with the Makishi masquerade? **Mukanda.** [Source](https://www.unesco.org/archives/multimedia/document-644); Description.
+- **b04-makishiend** — Does the Makishi masquerade mark the beginning or the end of mukanda? **The end.** [Source](https://www.unesco.org/archives/multimedia/document-644); Description.
+- **b04-chewa** — Which people practice the Gule Wamkulu ritual dance? **The Chewa.** [Source](https://www.unesco.org/archives/multimedia/document-634); Description.
+- **b04-nyau** — Which brotherhood performs Gule Wamkulu? **Nyau.** [Source](https://www.unesco.org/archives/multimedia/document-634); Description.
+- **b04-yoruba** — In which language are the songs of Gelede performed? **Yoruba.** [Source](https://www.unesco.org/archives/multimedia/document-613); Description, second paragraph.
+- **b04-iyanla** — Which primordial mother is honored by Gelede ceremonies? **Iya Nla.** [Source](https://www.unesco.org/archives/multimedia/document-613); Description, first paragraph.
+- **b04-geledeharvest** — The annual Gelede ceremony follows which farming milestone? **The harvest.** [Source](https://www.unesco.org/archives/multimedia/document-613); Description, second paragraph.
+- **b04-venezuela** — Which country celebrates Corpus Christi with the Dancing Devils? **Venezuela.** [Source](https://www.unesco.org/archives/multimedia/document-3769); Description.
+- **b04-maracas** — What rattling instruments do Dancing Devils worshippers carry to ward off evil? **Maracas.** [Source](https://www.unesco.org/archives/multimedia/document-3769); Description, first paragraph.
+- **b04-backwards** — In which direction do the Corpus Christi Dancing Devils dance in penitence? **Backwards.** [Source](https://www.unesco.org/archives/multimedia/document-3769); Description, first paragraph.
+- **b04-good** — The Dancing Devils' surrender symbolizes the victory of good over what? **Evil.** [Source](https://www.unesco.org/archives/multimedia/document-3769); Description, second paragraph.
+- **b04-slovenia** — The door-to-door rounds of Kurenti belong to which country? **Slovenia.** [Source](https://www.unesco.org/archives/multimedia/document-4643); Place and description.
+- **b04-kurentibells** — What ringing objects accompany Kurenti as they visit houses? **Bells.** [Source](https://www.unesco.org/archives/multimedia/document-4643); Description.
+- **b04-ashwednesday** — Kurenti rounds run from Candlemas until which Wednesday? **Ash Wednesday.** [Source](https://www.unesco.org/archives/multimedia/document-4643); Description.
+- **b04-hungary** — The frightening masked Buso carnival at Mohacs takes place in which country? **Hungary.** [Source](https://www.unesco.org/archives/multimedia/document-322); Description.
+- **b04-coffinwinter** — What season does the coffin burned at Mohacs's Buso carnival symbolize? **Winter.** [Source](https://www.unesco.org/archives/multimedia/document-322); Description, second sentence.
+- **b04-busodanube** — On which river do busos arrive in rowboats at Mohacs? **The Danube.** [Source](https://www.unesco.org/archives/multimedia/document-322); Description, second sentence.
+- **b04-unicefyear** — In what year did Trick-or-Treat for UNICEF begin collecting coins? **1950.** [Source](https://www.unicefusa.org/stories/history-of-unicef-trick-or-treat); History section.
+- **b04-cartons** — What emptied drink containers held the first Trick-or-Treat for UNICEF coins? **Milk cartons.** [Source](https://www.unicefusa.org/stories/history-of-unicef-trick-or-treat); Opening paragraph.
+- **b04-orangebox** — What color is the classic Trick-or-Treat for UNICEF collection box? **Orange.** [Source](https://www.unicefusa.org/stories/history-of-unicef-trick-or-treat); Opening paragraph.

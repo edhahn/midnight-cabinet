@@ -1,0 +1,277 @@
+[
+  {
+    "id": "cin-lugosi",
+    "excludedFilmYear": 1931,
+    "previous": {
+      "question": "Who played Count Dracula in Universal’s 1931 film?",
+      "answer": "Bela Lugosi.",
+      "source": {
+        "name": "BFI · Vampire films",
+        "url": "https://www.bfi.org.uk/lists/10-great-vampire-films",
+        "note": "Reference: Dracula (1958) section.",
+        "locator": "Dracula (1958) section",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "Which Emile Zola novel loosely inspired Thirst (2009)?",
+    "answer": "Therese Raquin.",
+    "source": {
+      "name": "BFI - South Korean horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-south-korean-horror-films",
+      "note": "Reference: Thirst section.",
+      "locator": "Thirst section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "cin-phantom",
+    "excludedFilmYear": 1925,
+    "previous": {
+      "question": "Who played the Phantom in the 1925 silent Phantom of the Opera?",
+      "answer": "Lon Chaney.",
+      "source": {
+        "name": "BFI · A century of horror",
+        "url": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now",
+        "note": "Reference: 1925.",
+        "locator": "1925",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "What kind of tank is used for the experiments in Altered States (1980)?",
+    "answer": "An isolation tank.",
+    "source": {
+      "name": "BFI - Body horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-body-horror-films",
+      "note": "Reference: Altered States section.",
+      "locator": "Altered States section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "cin-bride",
+    "excludedFilmYear": 1935,
+    "previous": {
+      "question": "Who played the Bride in Bride of Frankenstein (1935)?",
+      "answer": "Elsa Lanchester.",
+      "source": {
+        "name": "BFI · A century of horror",
+        "url": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now",
+        "note": "Reference: 1935.",
+        "locator": "1935",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "In which US city is Brain Damage (1988) set?",
+    "answer": "New York.",
+    "source": {
+      "name": "BFI - Body horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-body-horror-films",
+      "note": "Reference: Brain Damage section.",
+      "locator": "Brain Damage section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b01-talbot",
+    "excludedFilmYear": 1941,
+    "previous": {
+      "question": "Who plays Larry Talbot in The Wolf Man (1941)?",
+      "answer": "Lon Chaney Jr.",
+      "source": {
+        "name": "BFI — Werewolf films",
+        "url": "https://www.bfi.org.uk/lists/10-great-werewolf-films",
+        "locator": "The Wolf Man section",
+        "note": "Reference: The Wolf Man section.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "What kind of boat capsizes in The Reef (2010)?",
+    "answer": "A yacht.",
+    "source": {
+      "name": "BFI - Shark attack films",
+      "url": "https://www.bfi.org.uk/lists/10-great-shark-attack-films",
+      "note": "Reference: The Reef section.",
+      "locator": "The Reef section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b01-whitezombie",
+    "excludedFilmYear": 1932,
+    "previous": {
+      "question": "Who plays the sinister Legendre in White Zombie (1932)?",
+      "answer": "Bela Lugosi.",
+      "source": {
+        "name": "BFI — Zombie films",
+        "url": "https://www.bfi.org.uk/lists/10-great-zombie-films",
+        "locator": "White Zombie section",
+        "note": "Reference: White Zombie section.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "Which US city is flooded in Sharknado (2013)?",
+    "answer": "Los Angeles.",
+    "source": {
+      "name": "BFI - Shark attack films",
+      "url": "https://www.bfi.org.uk/lists/10-great-shark-attack-films",
+      "note": "Reference: Sharknado section.",
+      "locator": "Sharknado section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b01-wilder",
+    "excludedFilmYear": 1974,
+    "previous": {
+      "question": "Who plays Frankenstein’s grandson in Young Frankenstein (1974)?",
+      "answer": "Gene Wilder.",
+      "source": {
+        "name": "BFI — Comedy horror",
+        "url": "https://www.bfi.org.uk/lists/10-great-comedy-horror-films",
+        "locator": "Young Frankenstein section",
+        "note": "Reference: Young Frankenstein section.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "What subject does Nancy study in The Shallows (2016)?",
+    "answer": "Medicine.",
+    "source": {
+      "name": "BFI - Shark attack films",
+      "url": "https://www.bfi.org.uk/lists/10-great-shark-attack-films",
+      "note": "Reference: The Shallows section.",
+      "locator": "The Shallows section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b02-cushing",
+    "excludedFilmYear": 1958,
+    "previous": {
+      "question": "Who plays the Baron in The Revenge of Frankenstein (1958)?",
+      "answer": "Peter Cushing.",
+      "source": {
+        "name": "BFI - Horror sequels",
+        "url": "https://www.bfi.org.uk/lists/10-great-horror-sequels",
+        "locator": "The Revenge of Frankenstein section",
+        "note": "Reference: The Revenge of Frankenstein section.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "The voyage in The Bermuda Triangle (1978) takes place near which Bahamas island?",
+    "answer": "Bimini.",
+    "source": {
+      "name": "BFI - Mexican horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-mexican-horror-films",
+      "note": "Reference: The Bermuda Triangle section.",
+      "locator": "The Bermuda Triangle section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b03-seyrig",
+    "excludedFilmYear": 1971,
+    "previous": {
+      "question": "Who plays the countess in Daughters of Darkness (1971)?",
+      "answer": "Delphine Seyrig.",
+      "source": {
+        "name": "BFI - Vampire films",
+        "url": "https://www.bfi.org.uk/lists/10-great-vampire-films",
+        "locator": "Daughters of Darkness section",
+        "note": "Reference: Daughters of Darkness section.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "In which Mexican town is the monastery filmed in El fantasma del convento (1934)?",
+    "answer": "Tepotzotlan.",
+    "source": {
+      "name": "BFI - Mexican horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-mexican-horror-films",
+      "note": "Reference: El fantasma del convento section.",
+      "locator": "El fantasma del convento section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b03-kerr",
+    "excludedFilmYear": 1961,
+    "previous": {
+      "question": "Who plays governess Miss Giddens in The Innocents (1961)?",
+      "answer": "Deborah Kerr.",
+      "source": {
+        "name": "BFI - Haunted house films",
+        "url": "https://www.bfi.org.uk/lists/10-great-haunted-house-films",
+        "locator": "Opening paragraph",
+        "note": "Reference: Opening paragraph.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "Which country provided the filming locations for R-Point (2004)?",
+    "answer": "Cambodia.",
+    "source": {
+      "name": "BFI - South Korean horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-south-korean-horror-films",
+      "note": "Reference: R-Point section.",
+      "locator": "R-Point section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b03-barrymore",
+    "excludedFilmYear": 1920,
+    "previous": {
+      "question": "Who plays both title roles in Dr. Jekyll and Mr. Hyde (1920)?",
+      "answer": "John Barrymore.",
+      "source": {
+        "name": "BFI - Silent horror films",
+        "url": "https://www.bfi.org.uk/lists/10-great-silent-horror-films",
+        "locator": "Dr. Jekyll and Mr. Hyde section",
+        "note": "Reference: Dr. Jekyll and Mr. Hyde section.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "What wrestling alias does Guillermo Santana adopt in The Body Snatcher (1957)?",
+    "answer": "El Vampiro.",
+    "source": {
+      "name": "BFI - Mexican horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-mexican-horror-films",
+      "note": "Reference: The Body Snatcher section.",
+      "locator": "The Body Snatcher section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  },
+  {
+    "id": "b03-burroughs",
+    "excludedFilmYear": 1968,
+    "previous": {
+      "question": "Who narrated the 1968 re-release of Haxan, titled Witchcraft through the Ages?",
+      "answer": "William S. Burroughs.",
+      "source": {
+        "name": "BFI - Silent horror films",
+        "url": "https://www.bfi.org.uk/lists/10-great-silent-horror-films",
+        "locator": "Haxan section",
+        "note": "Reference: Haxan section.",
+        "verifiedOn": "2026-10-24"
+      }
+    },
+    "question": "Who wrote the novel adapted as Altered States (1980)?",
+    "answer": "Paddy Chayefsky.",
+    "source": {
+      "name": "BFI - Body horror",
+      "url": "https://www.bfi.org.uk/lists/10-great-body-horror-films",
+      "note": "Reference: Altered States section.",
+      "locator": "Altered States section",
+      "verifiedOn": "2026-10-24"
+    },
+    "reason": "Actor or casting identity in a film released before 1978; replaced one-for-one with a different supported fact."
+  }
+]

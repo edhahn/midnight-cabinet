@@ -1,0 +1,104 @@
+# Batch 03 editorial evidence
+
+Local only. Source passages read before authoring; citations below support each answer.
+
+- **b03-glass** — Which Le Fanu collection loosely inspired Vampyr (1932)? **In a Glass Darkly.** [Source](https://www.bfi.org.uk/lists/10-great-vampire-films); Vampyr section.
+- **b03-seyrig** — Who plays the countess in Daughters of Darkness (1971)? **Delphine Seyrig.** [Source](https://www.bfi.org.uk/lists/10-great-vampire-films); Daughters of Darkness section.
+- **b03-hudson** — Beside which river does Doctor Hess live in Ganja & Hess (1973)? **The Hudson.** [Source](https://www.bfi.org.uk/lists/10-great-vampire-films); Ganja and Hess section.
+- **b03-wellington** — In which city do the vampire flatmates live in What We Do in the Shadows (2014)? **Wellington.** [Source](https://www.bfi.org.uk/lists/10-great-vampire-films); What We Do in the Shadows section.
+- **b03-flatmates** — How many vampire housemates form the central group in What We Do in the Shadows (2014)? **Four.** [Source](https://www.bfi.org.uk/lists/10-great-vampire-films); Viago, Vladislav, Deacon and Petyr.
+- **b03-reindeer** — The White Reindeer (1952) is a folk-horror film from which country? **Finland.** [Source](https://www.bfi.org.uk/lists/10-great-lesser-known-folk-horror-films); The White Reindeer section.
+- **b03-clegg** — What was Captain Clegg (1962) called on its US release? **Night Creatures.** [Source](https://www.bfi.org.uk/lists/10-great-lesser-known-folk-horror-films); Captain Clegg section.
+- **b03-marketa** — Marketa Lazarova (1967) is set in which historical era? **The Middle Ages.** [Source](https://www.bfi.org.uk/lists/10-great-lesser-known-folk-horror-films); Marketa Lazarova section.
+- **b03-jerseycoast** — On which island is Neither the Sea Nor the Sand (1972) set? **Jersey.** [Source](https://www.bfi.org.uk/lists/10-great-lesser-known-folk-horror-films); Neither the Sea Nor the Sand section.
+- **b03-recital** — What instrument does Ian's daughter play in The Appointment? **Violin.** [Source](https://www.bfi.org.uk/lists/10-great-lesser-known-folk-horror-films); The Appointment section; year omitted because article headings disagree.
+- **b03-celia** — Near which Australian city is Celia (1989) set? **Melbourne.** [Source](https://www.bfi.org.uk/lists/10-great-lesser-known-folk-horror-films); Celia section.
+- **b03-anchoress** — In which century is Anchoress (1993) set? **The fourteenth century.** [Source](https://www.bfi.org.uk/lists/10-great-lesser-known-folk-horror-films); Anchoress section.
+- **b03-kerr** — Who plays governess Miss Giddens in The Innocents (1961)? **Deborah Kerr.** [Source](https://www.bfi.org.uk/lists/10-great-haunted-house-films); Opening paragraph.
+- **b03-prize** — How much is offered for surviving a night in House on Haunted Hill (1959)? **$10,000.** [Source](https://www.bfi.org.uk/lists/10-great-haunted-house-films); House on Haunted Hill section.
+- **b03-ennis** — Which architect designed Ennis House, seen in House on Haunted Hill (1959)? **Frank Lloyd Wright.** [Source](https://www.bfi.org.uk/lists/10-great-haunted-house-films); House on Haunted Hill section.
+- **b03-matheson** — Whose novel Hell House became The Legend of Hell House (1973)? **Richard Matheson's.** [Source](https://www.bfi.org.uk/lists/10-great-haunted-house-films); The Legend of Hell House section.
+- **b03-changelingjob** — What is George C. Scott's character's profession in The Changeling (1980)? **Composer.** [Source](https://www.bfi.org.uk/lists/10-great-haunted-house-films); The Changeling section.
+- **b03-othersisland** — On which Channel Island is The Others (2001) set? **Jersey.** [Source](https://www.bfi.org.uk/lists/10-great-haunted-house-films); The Others section.
+- **b03-juon** — In which Japanese city is the haunted house in Ju-on: The Grudge (2002)? **Tokyo.** [Source](https://www.bfi.org.uk/lists/10-great-haunted-house-films); The Grudge section.
+- **b03-cesare** — What is the sleepwalker's name in The Cabinet of Dr. Caligari (1920)? **Cesare.** [Source](https://www.bfi.org.uk/lists/10-great-silent-horror-films); The Cabinet of Dr. Caligari section.
+- **b03-barrymore** — Who plays both title roles in Dr. Jekyll and Mr. Hyde (1920)? **John Barrymore.** [Source](https://www.bfi.org.uk/lists/10-great-silent-horror-films); Dr. Jekyll and Mr. Hyde section.
+- **b03-golemcity** — In which city is The Golem: How He Came into the World (1920) set? **Prague.** [Source](https://www.bfi.org.uk/lists/10-great-silent-horror-films); The Golem section.
+- **b03-bankclerk** — What is the hero's job in the silent comedy The Haunted House (1921)? **Bank clerk.** [Source](https://www.bfi.org.uk/lists/10-great-silent-horror-films); The Haunted House section.
+- **b03-holm** — Who is apprenticed to drive Death's carriage in The Phantom Carriage (1921)? **David Holm.** [Source](https://www.bfi.org.uk/lists/10-great-silent-horror-films); The Phantom Carriage section.
+- **b03-burroughs** — Who narrated the 1968 re-release of Haxan, titled Witchcraft through the Ages? **William S. Burroughs.** [Source](https://www.bfi.org.uk/lists/10-great-silent-horror-films); Haxan section.
+- **b03-changeling** — What is a child secretly substituted for another in infancy called in folklore? **A changeling.** [Source](https://www.merriam-webster.com/dictionary/changeling); Definition 2.
+- **b03-goodfellow** — Puck is also known by which friendly-sounding name? **Robin Goodfellow.** [Source](https://www.merriam-webster.com/dictionary/puck); Noun 2, sense 1.
+- **b03-hob** — The hob in hobgoblin comes from a nickname for which male name? **Robert.** [Source](https://www.merriam-webster.com/dictionary/hobgoblin); Did You Know: Hobbe.
+- **b03-wight** — What did the old noun wight mean, rather than necessarily an undead monster? **A living being or person.** [Source](https://www.merriam-webster.com/dictionary/wight); Noun definition.
+- **b03-valhalla** — Which great hall receives fallen heroes in Norse mythology? **Valhalla.** [Source](https://www.merriam-webster.com/dictionary/Valhalla); Definition 1.
+- **b03-valkyrie** — What are Odin's maidens who escort slain heroes called? **Valkyries.** [Source](https://www.merriam-webster.com/dictionary/Valkyrie); Definition.
+- **b03-hel** — Which Norse goddess rules the realm of the dead? **Hel.** [Source](https://www.merriam-webster.com/dictionary/Hel); Definition.
+- **b03-duppy** — In Caribbean folklore, a duppy is what kind of supernatural presence? **A haunting spirit of the dead.** [Source](https://www.merriam-webster.com/dictionary/duppy); Definition: West Indian folklore.
+- **b03-preta** — In Buddhist tradition, which two cravings torment a preta? **Hunger and thirst.** [Source](https://www.merriam-webster.com/dictionary/preta); Definition 2.
+- **b03-yggdrasil** — What is the great world-tree connecting realms in Norse myth called? **Yggdrasil.** [Source](https://www.merriam-webster.com/dictionary/Yggdrasil); Definition.
+- **b03-ragnarok** — What Norse event is also called the Twilight of the Gods? **Ragnarok.** [Source](https://www.merriam-webster.com/dictionary/Ragnarok); Definition and alternate name.
+- **b03-chupacabra** — Which farm animal appears in the Spanish name chupacabra? **A goat.** [Source](https://www.merriam-webster.com/dictionary/chupacabra); Etymology: cabra.
+- **b03-nix** — A nix is a water sprite from which folklore tradition? **Germanic folklore.** [Source](https://www.merriam-webster.com/dictionary/nix); Noun 2.
+- **b03-cockatrice** — According to legend, a cockatrice hatches from an egg laid by which male bird? **A rooster.** [Source](https://www.merriam-webster.com/dictionary/cockatrice); Definition: cock's egg.
+- **b03-manticore** — What kind of head does the legendary manticore have? **A human head.** [Source](https://www.merriam-webster.com/dictionary/manticore); Definition.
+- **b03-simurgh** — Which wise, enormous bird belongs to Persian legend? **The simurgh.** [Source](https://www.merriam-webster.com/dictionary/simurgh); Definition.
+- **b03-ifrit** — The spirit name ifrit comes into English from which language? **Arabic.** [Source](https://www.merriam-webster.com/dictionary/ifrit); Etymology.
+- **b03-peri** — The supernatural peri belongs to which folklore tradition? **Persian folklore.** [Source](https://www.merriam-webster.com/dictionary/peri); Noun definition 1.
+- **b03-psychopomp** — What is the role of a psychopomp in mythology? **Guiding souls to the afterlife.** [Source](https://www.merriam-webster.com/dictionary/psychopomp); Definition.
+- **b03-necromancy** — Necromancy traditionally seeks knowledge by summoning whom? **Spirits of the dead.** [Source](https://www.merriam-webster.com/dictionary/necromancy); Definition 1.
+- **b03-necropolis** — What does necropolis literally mean? **City of the dead.** [Source](https://www.merriam-webster.com/dictionary/necropolis); Did You Know.
+- **b03-oubliette** — Where is the only opening in an oubliette dungeon? **At the top.** [Source](https://www.merriam-webster.com/dictionary/oubliette); Definition.
+- **b03-grimoire** — What is a grimoire used for in occult tradition? **A manual of magic and spirit invocation.** [Source](https://www.merriam-webster.com/dictionary/grimoire); Definition.
+- **b03-mandrake** — Which part of a mandrake was thought magical because it resembles a person? **Its forked root.** [Source](https://www.merriam-webster.com/dictionary/mandrake); Definition 1a.
+- **b03-amulet** — What is a wearable charm believed to protect its owner called? **An amulet, or talisman.** [Source](https://www.merriam-webster.com/dictionary/amulet); Definition and synonym.
+- **b03-charlotte** — Which Bronte sister wrote Jane Eyre? **Charlotte Bronte.** [Source](https://www.gutenberg.org/files/1260/1260-h/1260-h.htm); Title and author.
+- **b03-redroom** — What color names the frightening room where young Jane Eyre is confined? **Red.** [Source](https://www.gutenberg.org/files/1260/1260-h/1260-h.htm); Chapters I and II.
+- **b03-lowood** — What is Jane Eyre's childhood school called? **Lowood.** [Source](https://www.gutenberg.org/files/1260/1260-h/1260-h.htm); Chapter IV: admission as a pupil.
+- **b03-rochester** — Who owns Thornfield Hall in Jane Eyre? **Mr. Rochester.** [Source](https://www.gutenberg.org/files/1260/1260-h/1260-h.htm); Chapter XI: Mrs. Fairfax identifies owner.
+- **b03-radcliffe** — Who wrote The Mysteries of Udolpho? **Ann Radcliffe.** [Source](https://www.gutenberg.org/files/3268/3268-h/3268-h.htm); Title and author.
+- **b03-emilyst** — What is the heroine's full name in The Mysteries of Udolpho? **Emily St. Aubert.** [Source](https://www.gutenberg.org/files/3268/3268-h/3268-h.htm); Letter signed Emily St. Aubert.
+- **b03-veil** — What color is the mysterious veil hanging in a chamber of Udolpho? **Black.** [Source](https://www.gutenberg.org/files/3268/3268-h/3268-h.htm); Annette's account of the veiled picture.
+- **b03-volumes** — Into how many volumes is The Mysteries of Udolpho divided? **Four.** [Source](https://www.gutenberg.org/files/3268/3268-h/3268-h.htm); Contents: Volumes I-IV.
+- **b03-lewis** — Who wrote the Gothic novel The Monk? **M. G. Lewis.** [Source](https://www.gutenberg.org/files/601/601-h/601-h.htm); Title and author.
+- **b03-ambrosio** — What is the title monk's name in Lewis's novel? **Ambrosio.** [Source](https://www.gutenberg.org/files/601/601-h/601-h.htm); Chapter I: abbot and preacher.
+- **b03-madrid** — In which Spanish city does The Monk open? **Madrid.** [Source](https://www.gutenberg.org/files/601/601-h/601-h.htm); Chapter I: conversation in the church.
+- **b03-thursday** — On which weekday does Ambrosio preach to the crowds in The Monk? **Thursday.** [Source](https://www.gutenberg.org/files/601/601-h/601-h.htm); Chapter I: sermon schedule.
+- **b03-leroux** — Who wrote the original novel The Phantom of the Opera? **Gaston Leroux.** [Source](https://www.gutenberg.org/files/175/175-h/175-h.htm); Title and author.
+- **b03-boxfive** — Which numbered opera box does the Phantom reserve for himself? **Box Five.** [Source](https://www.gutenberg.org/files/175/175-h/175-h.htm); Chapter IV: exclusive property of the ghost.
+- **b03-christine** — Which singer is central to The Phantom of the Opera? **Christine Daae.** [Source](https://www.gutenberg.org/files/175/175-h/175-h.htm); Prologue and Chapter II.
+- **b03-erik** — What is the Opera Ghost's personal name in Leroux's novel? **Erik.** [Source](https://www.gutenberg.org/files/175/175-h/175-h.htm); Chapter XXVI: the ghost identified as Erik.
+- **b03-collins** — Who wrote the Gothic mystery The Woman in White? **Wilkie Collins.** [Source](https://www.gutenberg.org/files/583/583-h/583-h.htm); Title and author.
+- **b03-walter** — Which character begins the narration of The Woman in White? **Walter Hartright.** [Source](https://www.gutenberg.org/files/583/583-h/583-h.htm); First Epoch heading.
+- **b03-drawing** — What does Walter Hartright teach in The Woman in White? **Drawing.** [Source](https://www.gutenberg.org/files/583/583-h/583-h.htm); First Epoch opening attribution.
+- **b03-limmeridge** — At which house is Walter hired to teach in The Woman in White? **Limmeridge House.** [Source](https://www.gutenberg.org/files/583/583-h/583-h.htm); First Epoch: memorandum of employment.
+- **b03-signalwriter** — Who wrote the ghost story The Signal-Man? **Charles Dickens.** [Source](https://www.gutenberg.org/files/1289/1289-h/1289-h.htm); Title, author and contents.
+- **b03-redsignal** — What color is the light by the tunnel in The Signal-Man? **Red.** [Source](https://www.gutenberg.org/files/1289/1289-h/1289-h.htm); Opening description of the cutting.
+- **b03-telegraph** — Which wired communication system does the signal-man use to report danger? **The telegraph.** [Source](https://www.gutenberg.org/files/1289/1289-h/1289-h.htm); An alarm has been given: telegraphed both ways.
+- **b03-teaanimal** — What spectral animal follows Jennings in Le Fanu's Green Tea? **A monkey.** [Source](https://www.gutenberg.org/cache/epub/11635/pg11635-images.html); Chapter VII: The Journey.
+- **b03-hesselius** — Which German physician presents the case in Green Tea? **Martin Hesselius.** [Source](https://www.gutenberg.org/cache/epub/11635/pg11635-images.html); Prologue.
+- **b03-qingmonth** — Qing Ming, the Chinese ancestral remembrance festival, falls in which month? **April.** [Source](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c3bd4a1-0383-4125-8717-73e59e805ea6); Opening paragraph.
+- **b03-qingname** — What does the festival name Qing Ming mean in English? **Clear and Bright.** [Source](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c3bd4a1-0383-4125-8717-73e59e805ea6); Opening paragraph; also Pure and Bright.
+- **b03-saomu** — What does sao mu, performed at Qing Ming gravesites, mean? **Sweeping the grave.** [Source](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c3bd4a1-0383-4125-8717-73e59e805ea6); Rites and ceremonies.
+- **b03-cockles** — In the Teochew Qing Ming custom described by Singapore's NLB, which shellfish is eaten? **Cockles.** [Source](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c3bd4a1-0383-4125-8717-73e59e805ea6); Variations across dialect groups.
+- **b03-coldfood** — Which older Chinese observance is known as the Cold Food Festival? **Han Shi Jie.** [Source](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c3bd4a1-0383-4125-8717-73e59e805ea6); Origins; no claim of undisputed origin of Qing Ming.
+- **b03-guatemala** — Santiago Sacatepequez and Sumpango's giant-kite tradition belongs to which country? **Guatemala.** [Source](https://www.unesco.org/archives/multimedia/document-6913); Title and description.
+- **b03-giantkites** — What giant flying objects are made for the Saints and Dead fairs in Sumpango? **Kites.** [Source](https://www.unesco.org/archives/multimedia/document-6913); Description.
+- **b03-kiteancestors** — With whom is Guatemala's giant-kite tradition understood to create a connection? **Ancestors.** [Source](https://www.unesco.org/archives/multimedia/document-6913); Description: connecting with ancestors.
+- **b03-treacle** — What sticky coating covers scones in a Scottish Halloween eating game? **Treacle.** [Source](https://www.nts.org.uk/stories/6-scottish-halloween-traditions); Treacle scones.
+- **b03-kale** — Which leafy vegetable is pulled for romantic divination in Burns's Halloween? **Kale.** [Source](https://www.nts.org.uk/stories/6-scottish-halloween-traditions); Kale pulling.
+- **b03-rowan** — Which tree was believed to protect against witches in Scottish folklore? **Rowan.** [Source](https://www.nts.org.uk/stories/6-scottish-halloween-traditions); Nut burning section.
+- **b03-hazelnuts** — Which nuts are burned by couples in a Scottish Halloween divination custom? **Hazelnuts.** [Source](https://www.nts.org.uk/stories/6-scottish-halloween-traditions); Nut burning.
+- **b03-apotropaic** — What does apotropaic mean in the study of protective symbols? **Averting evil.** [Source](https://historicengland.org.uk/whats-new/features/discovering-witches-marks/what-are-witches-marks/); Opening: Greek derivation.
+- **b03-hexafoil** — What technical name is given to a daisy-wheel carving on historic buildings? **Hexafoil.** [Source](https://historicengland.org.uk/whats-new/features/discovering-witches-marks/what-are-witches-marks/); Daisy wheels or hexafoils.
+- **b03-lobes** — How many lobes form a hexafoil or daisy-wheel carving? **Six.** [Source](https://historicengland.org.uk/whats-new/features/discovering-witches-marks/what-are-witches-marks/); Six-lobed flower patterns.
+- **b03-compasses** — Which drawing tool was used to scribe daisy-wheel designs on stone? **Compasses, or dividers.** [Source](https://historicengland.org.uk/whats-new/features/discovering-witches-marks/what-are-witches-marks/); Saxon Tithe barn image caption.
+- **b03-natron** — Which naturally occurring sodium-carbonate material was used in ancient embalming? **Natron.** [Source](https://www.merriam-webster.com/dictionary/natron); Definition.
+- **b03-canopic** — What are the ancient Egyptian jars for preserving internal organs called? **Canopic jars.** [Source](https://www.merriam-webster.com/dictionary/canopic%20jar); Definition.
+- **b03-papyrus** — On what writing material is Imhotep's Book of the Dead at the Met recorded? **Papyrus.** [Source](https://www.metmuseum.org/perspectives/book-of-the-dead); Object medium and introduction.
+- **b03-hieratic** — Which cursive script is used in Imhotep's Book of the Dead? **Hieratic.** [Source](https://www.metmuseum.org/perspectives/book-of-the-dead); Description of the text.
+- **b03-forthbyday** — The Egyptian Book of the Dead is also known as the Book of Coming Forth by what? **Day.** [Source](https://www.metmuseum.org/perspectives/book-of-the-dead); Corpus of spells, prayers and incantations.
+- **b03-mementomori** — What does the Latin phrase memento mori remind us of? **That we must die.** [Source](https://www.merriam-webster.com/dictionary/memento%20mori); Etymology and Did You Know.
+- **b03-danse** — What is the English meaning of danse macabre? **Dance of death.** [Source](https://www.merriam-webster.com/dictionary/danse%20macabre); Definition.
+- **b03-ossuary** — What kind of remains are kept in an ossuary? **Bones.** [Source](https://www.merriam-webster.com/dictionary/ossuary); Definition.
+- **b03-catacombs** — Are catacombs burial galleries above ground or underground? **Underground.** [Source](https://www.merriam-webster.com/dictionary/catacomb); Definition 1.

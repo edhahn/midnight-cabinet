@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cin-herzog",
+    "filmYear": 1979,
+    "question": "Who plays the vampire in Nosferatu the Vampyre (1979)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-vampire-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-vampire-films"
+  },
+  {
+    "id": "cin-laurie",
+    "filmYear": 1978,
+    "question": "Who plays Laurie Strode in Halloween (1978)?",
+    "source": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now",
+    "yearSource": "https://www.bfi.org.uk/film/77d03fa1-0730-581a-ba38-4ebd41ca2938/halloween"
+  },
+  {
+    "id": "cin-others",
+    "filmYear": 2001,
+    "question": "Who plays the mother in The Others (2001)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-haunted-house-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-haunted-house-films"
+  },
+  {
+    "id": "cin-getout",
+    "filmYear": 2017,
+    "question": "Who plays Chris Washington in Get Out (2017)?",
+    "source": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now",
+    "yearSource": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now"
+  },
+  {
+    "id": "cin-darkwater",
+    "filmYear": 2005,
+    "question": "Who stars in the American remake of Dark Water?",
+    "source": "https://www.bfi.org.uk/lists/10-great-supernatural-horror-films-21st-century",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-supernatural-horror-films-21st-century"
+  },
+  {
+    "id": "b01-teenwolf",
+    "filmYear": 1985,
+    "question": "Who plays Scott Howard in Teen Wolf (1985)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-werewolf-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-werewolf-films"
+  },
+  {
+    "id": "b01-selene",
+    "filmYear": 2003,
+    "question": "Who plays Selene in Underworld (2003)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-werewolf-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-werewolf-films"
+  },
+  {
+    "id": "b01-fido",
+    "filmYear": 2006,
+    "question": "Who plays the title zombie in Fido (2006)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-zombie-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-zombie-films"
+  },
+  {
+    "id": "b02-vincent",
+    "filmYear": 1982,
+    "question": "Who narrates the animated short Vincent (1982)?",
+    "source": "https://www.bfi.org.uk/lists/tim-burton-10-essential-films",
+    "yearSource": "https://www.bfi.org.uk/lists/tim-burton-10-essential-films"
+  },
+  {
+    "id": "b02-beetlejuice",
+    "filmYear": 1988,
+    "question": "Who plays the title ghost in Beetlejuice (1988)?",
+    "source": "https://www.bfi.org.uk/lists/tim-burton-10-essential-films",
+    "yearSource": "https://www.bfi.org.uk/lists/tim-burton-10-essential-films"
+  },
+  {
+    "id": "b01-ash",
+    "filmYear": 1987,
+    "question": "Who plays Ash in Evil Dead II (1987)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-comedy-horror-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-comedy-horror-films"
+  },
+  {
+    "id": "b01-tucker",
+    "filmYear": 2010,
+    "question": "Who plays Tucker in Tucker and Dale vs Evil (2010)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-comedy-horror-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-comedy-horror-films"
+  },
+  {
+    "id": "b04-hurt",
+    "filmYear": 1980,
+    "question": "Who plays the experimenting professor in Altered States (1980)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-body-horror-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-body-horror-films"
+  },
+  {
+    "id": "b04-goldblum",
+    "filmYear": 1986,
+    "question": "Who plays the inventor in The Fly (1986)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-body-horror-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-body-horror-films"
+  },
+  {
+    "id": "b04-lively",
+    "filmYear": 2016,
+    "question": "Who plays stranded surfer Nancy in The Shallows (2016)?",
+    "source": "https://www.bfi.org.uk/lists/10-great-shark-attack-films",
+    "yearSource": "https://www.bfi.org.uk/lists/10-great-shark-attack-films"
+  }
+]

@@ -1,0 +1,18 @@
+import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+const base='https://midnight-cabinet-one.vercel.app/';
+const deployment=process.env.DEPLOYMENT_ID||JSON.parse(await readFile('deployment.json','utf8')).deploymentId;
+const files=await readdir('dist',{recursive:true,withFileTypes:true});
+const report=[];
+const queue=files.filter(e=>e.isFile());
+await Promise.all(Array.from({length:8},async()=>{while(queue.length){const e=queue.shift();
+ const localPath=`${e.parentPath}/${e.name}`;
+ const path=localPath.replaceAll('\\','/').replace(/^dist\//,'');
+ const response=await fetch(new URL(path==='index.html'?'':path,base));
+ const remote=Buffer.from(await response.arrayBuffer()); const local=await readFile(localPath);
+ const hash=b=>createHash('sha256').update(b).digest('hex');
+ report.push({path,status:response.status,match:hash(remote)===hash(local),sha256:hash(local)});
+}}));
+await writeFile('test-results/deployment-assets.json',JSON.stringify({base,deployment,verifiedAt:new Date().toISOString(),files:report},null,2));
+console.log(JSON.stringify({base,count:report.length,allMatch:report.every(x=>x.status===200&&x.match),failures:report.filter(x=>!x.match||x.status!==200)},null,2));
+if(report.some(x=>x.status!==200||!x.match))process.exitCode=1;

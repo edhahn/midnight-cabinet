@@ -1,0 +1,104 @@
+# Batch 01 editorial evidence
+
+Local only: 100 new sourced questions and 200 original SVGs. The live app remains 100 questions.
+
+- **b01-talbot** — Who plays Larry Talbot in The Wolf Man (1941)? **Lon Chaney Jr.** [Source](https://www.bfi.org.uk/lists/10-great-werewolf-films); The Wolf Man section.
+- **b01-carter** — Whose fiction inspired The Company of Wolves (1984)? **Angela Carter.** [Source](https://www.bfi.org.uk/lists/10-great-werewolf-films); The Company of Wolves section; The Bloody Chamber.
+- **b01-teenwolf** — Who plays Scott Howard in Teen Wolf (1985)? **Michael J. Fox.** [Source](https://www.bfi.org.uk/lists/10-great-werewolf-films); Teen Wolf section.
+- **b01-selene** — Who plays Selene in Underworld (2003)? **Kate Beckinsale.** [Source](https://www.bfi.org.uk/lists/10-great-werewolf-films); Underworld section.
+- **b01-yorkshire** — In which English county are the hikers attacked in An American Werewolf in London? **Yorkshire.** [Source](https://www.bfi.org.uk/lists/10-great-werewolf-films); An American Werewolf in London section.
+- **b01-whitezombie** — Who plays the sinister Legendre in White Zombie (1932)? **Bela Lugosi.** [Source](https://www.bfi.org.uk/lists/10-great-zombie-films); White Zombie section.
+- **b01-fido** — Who plays the title zombie in Fido (2006)? **Billy Connolly.** [Source](https://www.bfi.org.uk/lists/10-great-zombie-films); Fido section.
+- **b01-pontypool** — What is Grant Mazzy’s job in Pontypool (2008)? **Radio host.** [Source](https://www.bfi.org.uk/lists/10-great-zombie-films); Pontypool section.
+- **b01-janeeyre** — Which Charlotte Brontë novel loosely inspired I Walked with a Zombie (1943)? **Jane Eyre.** [Source](https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now); 1943: I Walked with a Zombie.
+- **b01-wilder** — Who plays Frankenstein’s grandson in Young Frankenstein (1974)? **Gene Wilder.** [Source](https://www.bfi.org.uk/lists/10-great-comedy-horror-films); Young Frankenstein section.
+- **b01-benighted** — Which J. B. Priestley novel became The Old Dark House (1932)? **Benighted.** [Source](https://www.bfi.org.uk/lists/10-great-comedy-horror-films); The Old Dark House section.
+- **b01-ash** — Who plays Ash in Evil Dead II (1987)? **Bruce Campbell.** [Source](https://www.bfi.org.uk/lists/10-great-comedy-horror-films); Evil Dead II section.
+- **b01-tucker** — Who plays Tucker in Tucker and Dale vs Evil (2010)? **Alan Tudyk.** [Source](https://www.bfi.org.uk/lists/10-great-comedy-horror-films); Tucker and Dale vs Evil section.
+- **b01-beaverton** — What is the town called in Werewolves Within (2021)? **Beaverton.** [Source](https://www.bfi.org.uk/lists/10-great-comedy-horror-films); Werewolves Within section.
+- **b01-nile** — What is the haunted man’s profession in Bride of the Nile (1963)? **Geologist.** [Source](https://www.bfi.org.uk/lists/10-great-supernatural-films-from-middle-east-north-africa); Bride of the Nile section.
+- **b01-tara** — What object does the dead knight seek in The Ballad of Tara (1979)? **A sword.** [Source](https://www.bfi.org.uk/lists/10-great-supernatural-films-from-middle-east-north-africa); The Ballad of Tara section.
+- **b01-scarecrow** — What field figure frightens villagers in Tall Shadows of the Wind (1979)? **A scarecrow.** [Source](https://www.bfi.org.uk/lists/10-great-supernatural-films-from-middle-east-north-africa); Tall Shadows of the Wind section.
+- **b01-kindil** — Kindil El Bahr (2016) is a supernatural film from which North African country? **Algeria.** [Source](https://www.bfi.org.uk/lists/10-great-supernatural-films-from-middle-east-north-africa); Kindil El Bahr section.
+- **b01-dachra** — Which North African country produced the horror film Dachra (2018)? **Tunisia.** [Source](https://www.bfi.org.uk/lists/10-great-supernatural-films-from-middle-east-north-africa); Dachra section.
+- **b01-fangs** — Which famous count hosts the mansion in the musical horror Fangs (1981)? **Count Dracula.** [Source](https://www.bfi.org.uk/lists/10-great-supernatural-films-from-middle-east-north-africa); Fangs section.
+- **b01-isolation** — Which farm animals are central to Isolation (2005)? **Cattle.** [Source](https://www.bfi.org.uk/lists/10-great-irish-horror-films); Isolation section.
+- **b01-erin** — What is the fictional island called in Grabbers (2012)? **Erin.** [Source](https://www.bfi.org.uk/lists/10-great-irish-horror-films); Grabbers section.
+- **b01-canal** — What is David’s profession in The Canal (2014)? **Film archivist.** [Source](https://www.bfi.org.uk/lists/10-great-irish-horror-films); The Canal section.
+- **b01-surveyor** — What is Eric’s profession in Without Name (2016)? **Land surveyor.** [Source](https://www.bfi.org.uk/lists/10-great-irish-horror-films); Without Name section.
+- **b01-songs** — What do the collectors seek in All You Need Is Death (2023)? **Traditional Irish folk songs.** [Source](https://www.bfi.org.uk/lists/10-great-irish-horror-films); All You Need Is Death section.
+- **b01-ghoul** — What legendary monster is known for robbing graves? **A ghoul.** [Source](https://www.merriam-webster.com/dictionary/ghoul); Definition 1.
+- **b01-dybbuk** — Which spirit in Jewish folklore enters and controls a living person’s body? **A dybbuk.** [Source](https://www.merriam-webster.com/dictionary/dybbuk); Definition.
+- **b01-brownie** — Which helpful household elf shares its name with a chocolate cake? **A brownie.** [Source](https://www.merriam-webster.com/dictionary/brownie); Definitions: helpful elf and cake.
+- **b01-wisp** — Which ghostly light is said to lure travelers into marshes? **Will-o’-the-wisp.** [Source](https://www.merriam-webster.com/dictionary/will-o'-the-wisp); Did You Know: folklore of wandering lights.
+- **b01-lamia** — Lamia, the figure who inspired Keats’s poem, comes from which mythology? **Greek mythology.** [Source](https://www.merriam-webster.com/dictionary/lamia); Did You Know: Lamia in Greek myth.
+- **b01-medusa** — What creatures form Medusa’s hair in Greek mythology? **Snakes.** [Source](https://www.merriam-webster.com/dictionary/gorgon); Definition: snake-haired sisters.
+- **b01-hydra** — In the Hydra legend, how many heads replace each head Hercules cuts off? **Two.** [Source](https://www.merriam-webster.com/dictionary/hydra); Mythological definition.
+- **b01-cyclops** — How many eyes does a Cyclops have? **One.** [Source](https://www.merriam-webster.com/dictionary/cyclops); Definition.
+- **b01-roc** — Which gigantic legendary bird is said to carry an elephant? **A roc.** [Source](https://www.merriam-webster.com/dictionary/roc); Kids definition: carrying off an elephant.
+- **b01-rakshasa** — A rakshasa is a spirit or demon in which mythological tradition? **Hindu mythology.** [Source](https://www.merriam-webster.com/dictionary/rakshasa); Definition.
+- **b01-dullahan** — Which headless Irish fairy carries its head under its arm in Yeats’s account? **The dullahan.** [Source](https://blogs.lib.ku.edu/spencer/how-well-do-you-know-your-irish-fairies/); The Dullahan quotation.
+- **b01-leprechaun** — What trade does the leprechaun practice in Yeats’s account? **Shoemaking.** [Source](https://blogs.lib.ku.edu/spencer/how-well-do-you-know-your-irish-fairies/); The Leprecaun quotation.
+- **b01-clurichaun** — What drink does the clurichaun steal from cellars in Yeats’s account? **Wine.** [Source](https://blogs.lib.ku.edu/spencer/how-well-do-you-know-your-irish-fairies/); The Cluricaun quotation.
+- **b01-fardarrig** — The Irish fairy name far darrig means a man of which color? **Red.** [Source](https://blogs.lib.ku.edu/spencer/how-well-do-you-know-your-irish-fairies/); The Far Darrig quotation.
+- **b01-merrows** — Merrows are Irish counterparts of which legendary sea beings? **Mermaids.** [Source](https://blogs.lib.ku.edu/spencer/how-well-do-you-know-your-irish-fairies/); The Merrow quotation.
+- **b01-yukionna** — What severe weather sends the woodcutters to shelter in Hearn’s Yuki-Onna? **A snowstorm.** [Source](https://www.gutenberg.org/cache/epub/1210/pg1210-images.html); Yuki-Onna opening.
+- **b01-mujina** — Which city is the setting of Hearn’s ghostly tale Mujina? **Tokyo.** [Source](https://www.gutenberg.org/cache/epub/1210/pg1210-images.html); Mujina opening: Akasaka Road in Tokyo.
+- **b01-rokuro** — In Hearn’s Rokuro-Kubi, which body part flies away at night? **The head.** [Source](https://www.gutenberg.org/cache/epub/1210/pg1210-images.html); Rokuro-Kubi: priest observes flying heads.
+- **b01-hoichi** — What musical instrument does Hōichi play in Kwaidan? **A biwa.** [Source](https://www.gutenberg.org/cache/epub/1210/pg1210-images.html); Mimi-Nashi-Hoichi opening; four-stringed lute.
+- **b01-oshidori** — Which birds feature in Hearn’s haunting tale Oshidori? **Mandarin ducks.** [Source](https://www.gutenberg.org/cache/epub/1210/pg1210-images.html); Oshidori opening.
+- **b01-anubis** — Which jackal-headed Egyptian god oversees embalming? **Anubis.** [Source](https://www.metmuseum.org/art/collection/search/548208); Object description.
+- **b01-heart** — Which organ is weighed in ancient Egyptian judgment of the dead? **The heart.** [Source](https://www.metmuseum.org/art/collection/search/548208); Object description: weighing of the heart.
+- **b01-ba** — In ancient Egyptian funerary art, the ba is a bird with what kind of head? **A human head.** [Source](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf); Printed page 28: ba.
+- **b01-osiris** — Which Egyptian god rules the afterlife and is associated with rebirth? **Osiris.** [Source](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf); Printed page 103: Osiris.
+- **b01-feather** — What light object balances against the heart in Egyptian judgment scenes? **A feather.** [Source](https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf); Printed page 28: feather of Maat.
+- **b01-vulture** — In The Tell-Tale Heart, the old man’s eye reminds the narrator of which bird? **A vulture.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); The Tell-Tale Heart: description of the eye.
+- **b01-heartbeat** — Which organ’s imagined beating haunts the narrator of The Tell-Tale Heart? **The heart.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); The Tell-Tale Heart: final passage.
+- **b01-toledo** — In which Spanish city is Poe’s The Pit and the Pendulum set? **Toledo.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); The Pit and the Pendulum: Inquisition at Toledo.
+- **b01-amontillado** — What kind of drink is used as bait in The Cask of Amontillado? **Wine.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); The Cask of Amontillado opening.
+- **b01-motley** — What jingling objects decorate Fortunato’s cap in The Cask of Amontillado? **Bells.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); The Cask of Amontillado: conical cap and bells.
+- **b01-roderick** — What is Mr Usher’s first name in The Fall of the House of Usher? **Roderick.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); The Fall of the House of Usher opening.
+- **b01-madeline** — What is Roderick Usher’s sister called? **Madeline.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); The Fall of the House of Usher: introduction of sister.
+- **b01-demeter** — Which ship carries mysterious cargo to Whitby in Dracula? **The Demeter.** [Source](https://www.gutenberg.org/cache/epub/345/pg345-images.html); Chapter 7: Log of the Demeter.
+- **b01-abraham** — What is Professor Van Helsing’s first name in Dracula? **Abraham.** [Source](https://www.gutenberg.org/cache/epub/345/pg345-images.html); Chapter 27: memorandum heading.
+- **b01-mina** — What is Mina’s surname before she marries Jonathan Harker? **Murray.** [Source](https://www.gutenberg.org/cache/epub/345/pg345-images.html); Mrs Harker that was Miss Mina Murray.
+- **b01-lucy** — What is Lucy’s surname in Bram Stoker’s Dracula? **Westenra.** [Source](https://www.gutenberg.org/cache/epub/345/pg345-images.html); Chapter 5: correspondence headings.
+- **b01-walton** — Which explorer writes the opening letters of Frankenstein? **Walton.** [Source](https://www.gutenberg.org/cache/epub/84/pg84-images.html); Letter 1 signature: R. Walton.
+- **b01-paradise** — Which epic about the Fall does Frankenstein’s creature read? **Paradise Lost.** [Source](https://www.gutenberg.org/cache/epub/84/pg84-images.html); Chapter 15: books found in a portmanteau.
+- **b01-geneva** — Victor Frankenstein’s family comes from which Swiss city? **Geneva.** [Source](https://www.gutenberg.org/cache/epub/84/pg84-images.html); Chapter 1: Genevese family.
+- **b01-utterson** — Which lawyer investigates the connection between Jekyll and Hyde? **Mr Utterson.** [Source](https://www.gutenberg.org/cache/epub/43/pg43-images.html); Story of the Door and Search for Mr Hyde.
+- **b01-poole** — What is Dr Jekyll’s butler called? **Poole.** [Source](https://www.gutenberg.org/cache/epub/43/pg43-images.html); Search for Mr Hyde; The Last Night.
+- **b01-basil** — Who paints Dorian Gray’s portrait in Oscar Wilde’s novel? **Basil Hallward.** [Source](https://www.gutenberg.org/cache/epub/174/pg174-images.html); Chapter 1: artist beside portrait.
+- **b01-sibyl** — Which actress captures Dorian Gray’s heart? **Sibyl Vane.** [Source](https://www.gutenberg.org/cache/epub/174/pg174-images.html); Chapter 4: discussion of her performances.
+- **b01-bly** — What is the country estate called in The Turn of the Screw? **Bly.** [Source](https://www.gutenberg.org/cache/epub/209/pg209-images.html); Prologue: children placed at Bly.
+- **b01-wards** — What are the two children called in The Turn of the Screw? **Miles and Flora.** [Source](https://www.gutenberg.org/cache/epub/209/pg209-images.html); Prologue: introduction of children.
+- **b01-laura** — What is the young narrator’s name in Carmilla? **Laura.** [Source](https://www.gutenberg.org/cache/epub/10007/pg10007-images.html); Chapter 9: father addresses Laura.
+- **b01-styria** — In which region does the narrator of Carmilla live? **Styria.** [Source](https://www.gutenberg.org/cache/epub/10007/pg10007-images.html); Chapter 1 opening.
+- **b01-manfred** — Who is the prince at the start of The Castle of Otranto? **Manfred.** [Source](https://www.gutenberg.org/cache/epub/696/pg696-images.html); Chapter 1 first sentence.
+- **b01-helmet** — What enormous piece of armor appears in Otranto’s courtyard? **A helmet.** [Source](https://www.gutenberg.org/cache/epub/696/pg696-images.html); Chapter 1: enormous helmet.
+- **b01-bob** — What is Scrooge’s clerk called in A Christmas Carol? **Bob Cratchit.** [Source](https://www.gutenberg.org/cache/epub/46/pg46-images.html); Staves 1 and 5: clerk and salary.
+- **b01-fred** — What is Scrooge’s cheerful nephew called? **Fred.** [Source](https://www.gutenberg.org/cache/epub/46/pg46-images.html); Stave 3: nephew’s gathering.
+- **b01-gunpowder** — What is Ichabod Crane’s horse called in The Legend of Sleepy Hollow? **Gunpowder.** [Source](https://www.gutenberg.org/cache/epub/41/pg41-images.html); Ride to and from the gathering.
+- **b01-brom** — Which local horseman is Ichabod Crane’s romantic rival? **Brom Bones.** [Source](https://www.gutenberg.org/cache/epub/41/pg41-images.html); Introduction of rival and feud.
+- **b01-jacobs** — Who wrote The Monkey’s Paw? **W. W. Jacobs.** [Source](https://www.gutenberg.org/files/12122/12122-h/12122-h.htm); Title page.
+- **b01-wishes** — How many wishes does the monkey’s paw grant each owner in Jacobs’s story? **Three.** [Source](https://www.gutenberg.org/files/12122/12122-h/12122-h.htm); Part I: Morris explains the spell.
+- **b01-hearn** — Who collected the Japanese ghost stories in Kwaidan? **Lafcadio Hearn.** [Source](https://www.gutenberg.org/cache/epub/1210/pg1210-images.html); Title page.
+- **b01-james** — Who wrote The Turn of the Screw? **Henry James.** [Source](https://www.gutenberg.org/cache/epub/209/pg209-images.html); Title page.
+- **b01-dickens** — Who wrote the ghost story A Christmas Carol? **Charles Dickens.** [Source](https://www.gutenberg.org/cache/epub/46/pg46-images.html); Title page.
+- **b01-pallas** — Poe’s raven perches on a bust of whom? **Pallas.** [Source](https://www.gutenberg.org/cache/epub/1065/pg1065-images.html); Stanza beginning Open here I flung the shutter.
+- **b01-ebony** — What dark wood forms the clock in The Masque of the Red Death? **Ebony.** [Source](https://www.gutenberg.org/cache/epub/2148/pg2148-images.html); Description of western apartment.
+- **b01-seventh** — In Singapore, Hungry Ghost Festival observances fall in which lunar month? **The seventh month.** [Source](https://ichlinks.com/archive/elements/elementsV.do?elementsUid=13852023915373000912); Description.
+- **b01-getai** — What are Singapore’s Hungry Ghost Festival stage performances called? **Getai.** [Source](https://ichlinks.com/archive/elements/elementsV.do?elementsUid=13852023915373000912); Description and social significance.
+- **b01-frontrow** — For whom is the front row left empty at Hungry Ghost Festival getai shows? **Spirits.** [Source](https://ichlinks.com/archive/elements/elementsV.do?elementsUid=13852023915373000912); Social and cultural significance.
+- **b01-paper** — What material is used for model houses and money burned as Hungry Ghost offerings? **Paper.** [Source](https://ichlinks.com/archive/elements/elementsV.do?elementsUid=13852023915373000912); Social and cultural significance: paper effigies.
+- **b01-obon** — Which annual Japanese Buddhist festival commemorates the dead with summer gatherings? **Obon.** [Source](https://discovernikkei.org/en/journal/2006/7/8/obon/); Opening paragraph.
+- **b01-bonodori** — What is the name of the folk dancing performed at Obon festivals? **Bon Odori.** [Source](https://discovernikkei.org/en/journal/2006/7/8/obon/); Third paragraph.
+- **b01-taiko** — Which Japanese drum keeps time for Bon Odori dancers? **The taiko.** [Source](https://discovernikkei.org/en/journal/2006/7/8/obon/); Third paragraph: drum and bachi.
+- **b01-sugarskulls** — What sweet ingredient forms the decorative skulls on many Day of the Dead altars? **Granulated sugar.** [Source](https://www.smithsonianmag.com/travel/meaning-behind-six-objects-dia-de-los-muertos-altars-180973442/); Skulls section.
+- **b01-papel** — What are the cut-paper decorations on Day of the Dead altars called? **Papel picado.** [Source](https://www.smithsonianmag.com/travel/meaning-behind-six-objects-dia-de-los-muertos-altars-180973442/); Papel picado section.
+- **b01-bread** — What is the traditional Day of the Dead bread called? **Pan de muerto.** [Source](https://www.smithsonianmag.com/travel/meaning-behind-six-objects-dia-de-los-muertos-altars-180973442/); Bread section.
+- **b01-yulecount** — How many Yule Lads visit children in Icelandic Christmas tradition? **Thirteen.** [Source](https://www.visiticeland.com/article/meet-the-icelandic-yule-troll-family/); The 13 Yule Lads.
+- **b01-shoes** — What do Icelandic children leave by windows for Yule Lad gifts? **Shoes.** [Source](https://www.visiticeland.com/article/meet-the-icelandic-yule-troll-family/); How to get a gift.
+- **b01-gryla** — What is the Yule Lads’ mother called in Icelandic folklore? **Grýla.** [Source](https://www.visiticeland.com/article/meet-the-icelandic-yule-troll-family/); Opening family description.
+- **b01-nicholas** — Which saint does Krampus accompany in Alpine tradition? **Saint Nicholas.** [Source](https://www.salzburg.info/en/salzburg/advent/krampus-percht); Fiendish Figure: Krampus.
+- **b01-masks** — What material is traditionally carved into masks for Salzburg’s Krampus parades? **Wood.** [Source](https://www.salzburg.info/en/salzburg/advent/krampus-percht); Opening description: hand-carved wooden masks.

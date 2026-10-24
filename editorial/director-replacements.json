@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cin-haunting",
+    "previousQuestion": "Who directed the 1963 film The Haunting?",
+    "question": "What is the haunted mansion called in The Haunting (1963)?",
+    "answer": "Hill House.",
+    "source": "https://www.bfi.org.uk/lists/10-great-haunted-house-films",
+    "locator": "The Haunting section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-babadook",
+    "previousQuestion": "Who directed The Babadook (2014)?",
+    "question": "What kind of book introduces the creature in The Babadook (2014)?",
+    "answer": "A children’s book.",
+    "source": "https://www.bfi.org.uk/lists/10-great-supernatural-horror-films-21st-century",
+    "locator": "The Babadook section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-darkwater",
+    "previousQuestion": "Who directed the original Japanese Dark Water (2002)?",
+    "question": "Who stars in the American remake of Dark Water?",
+    "answer": "Jennifer Connelly.",
+    "source": "https://www.bfi.org.uk/lists/10-great-supernatural-horror-films-21st-century",
+    "locator": "Dark Water section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-vampyr",
+    "previousQuestion": "Who directed the dreamlike vampire film Vampyr (1932)?",
+    "question": "What is the occult-obsessed visitor called in Vampyr (1932)?",
+    "answer": "Allan Gray.",
+    "source": "https://www.bfi.org.uk/lists/10-great-vampire-films",
+    "locator": "Vampyr section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-neardark",
+    "previousQuestion": "Who directed the vampire western Near Dark (1987)?",
+    "question": "In which US state is the vampire western Near Dark (1987) set?",
+    "answer": "Oklahoma.",
+    "source": "https://www.bfi.org.uk/lists/10-great-vampire-films",
+    "locator": "Near Dark section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-herzog",
+    "previousQuestion": "Who remade Nosferatu as Nosferatu the Vampyre in 1979?",
+    "question": "Who plays the vampire in Nosferatu the Vampyre (1979)?",
+    "answer": "Klaus Kinski.",
+    "source": "https://www.bfi.org.uk/lists/10-great-vampire-films",
+    "locator": "Nosferatu the Vampyre section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-romero",
+    "previousQuestion": "Who directed Night of the Living Dead (1968)?",
+    "question": "Which undead creatures surround the living in Night of the Living Dead (1968)?",
+    "answer": "Zombies.",
+    "source": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now",
+    "locator": "1968",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-getout",
+    "previousQuestion": "Who made his feature directing debut with Get Out (2017)?",
+    "question": "Who plays Chris Washington in Get Out (2017)?",
+    "answer": "Daniel Kaluuya.",
+    "source": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now",
+    "locator": "2017",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-eraserhead",
+    "previousQuestion": "Who made his feature debut with Eraserhead (1977)?",
+    "question": "What supernatural ability does the bullied girl possess in Carrie (1976)?",
+    "answer": "Telekinesis.",
+    "source": "https://www.bfi.org.uk/lists/great-horror-film-from-every-year-from-1922-now",
+    "locator": "1976: Carrie",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-whistle",
+    "previousQuestion": "Who directed the 1968 television ghost story Whistle and I’ll Come to You?",
+    "question": "Was Whistle and I’ll Come to You (1968) originally made for television or cinema?",
+    "answer": "Television.",
+    "source": "https://www.bfi.org.uk/lists/10-great-british-rural-horror-films",
+    "locator": "Whistle and I’ll Come to You section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  },
+  {
+    "id": "cin-wicker",
+    "previousQuestion": "Who directed the original The Wicker Man (1973)?",
+    "question": "The island in The Wicker Man (1973) belongs to which country?",
+    "answer": "Scotland.",
+    "source": "https://www.bfi.org.uk/lists/10-great-british-rural-horror-films",
+    "locator": "The Wicker Man section",
+    "reviewedOn": "2026-10-24",
+    "review": "Full source section read; replacement asks about story, setting, creature or performance, never director identity."
+  }
+]

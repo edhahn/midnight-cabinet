@@ -1,0 +1,104 @@
+# Batch 02 editorial evidence
+
+Local only. Source passages read before authoring; citations below support each answer.
+
+- **b02-ugetsu** — Which craft does Genjuro practice in Ugetsu Monogatari (1953)? **Pottery.** [Source](https://www.bfi.org.uk/lists/10-great-japanese-ghost-stories); Ugetsu Monogatari section.
+- **b02-yotsuya** — The Ghost of Yotsuya (1959) adapts a play from which Japanese theatre form? **Kabuki.** [Source](https://www.bfi.org.uk/lists/10-great-japanese-ghost-stories); The Ghost of Yotsuya section.
+- **b02-pitfall** — What do the laborers mine in Pitfall (1962)? **Coal.** [Source](https://www.bfi.org.uk/lists/10-great-japanese-ghost-stories); Pitfall section.
+- **b02-kwaidan** — How many supernatural tales make up Kwaidan (1964)? **Four.** [Source](https://www.bfi.org.uk/lists/10-great-japanese-ghost-stories); Kwaidan section.
+- **b02-ring** — What recording medium carries the curse in Ring (1998)? **A VHS tape.** [Source](https://www.bfi.org.uk/lists/10-great-japanese-ghost-stories); Ring section.
+- **b02-pulse** — Which communication network spreads dread in Pulse (2001)? **The internet.** [Source](https://www.bfi.org.uk/lists/10-great-japanese-ghost-stories); Pulse section.
+- **b02-vincent** — Who narrates the animated short Vincent (1982)? **Vincent Price.** [Source](https://www.bfi.org.uk/lists/tim-burton-10-essential-films); Vincent section.
+- **b02-beetlejuice** — Who plays the title ghost in Beetlejuice (1988)? **Michael Keaton.** [Source](https://www.bfi.org.uk/lists/tim-burton-10-essential-films); Beetlejuice section.
+- **b02-elfman** — Who composed the music for Edward Scissorhands (1990)? **Danny Elfman.** [Source](https://www.bfi.org.uk/lists/tim-burton-10-essential-films); Edward Scissorhands section.
+- **b02-detective** — What is Ichabod Crane's profession in the film Sleepy Hollow (1999)? **Detective.** [Source](https://www.bfi.org.uk/lists/tim-burton-10-essential-films); Sleepy Hollow section; film differs from Irving story.
+- **b02-sondheim** — Whose stage musical was adapted as Sweeney Todd (2007)? **Stephen Sondheim's.** [Source](https://www.bfi.org.uk/lists/tim-burton-10-essential-films); Sweeney Todd section.
+- **b02-sparky** — What is Victor's dog called in Frankenweenie (2012)? **Sparky.** [Source](https://www.bfi.org.uk/lists/tim-burton-10-essential-films); Frankenweenie section.
+- **b02-hearing** — Which sense is unusually acute in the creatures of A Quiet Place (2018)? **Hearing.** [Source](https://www.bfi.org.uk/lists/10-great-horror-sequels); Introduction: A Quiet Place.
+- **b02-cushing** — Who plays the Baron in The Revenge of Frankenstein (1958)? **Peter Cushing.** [Source](https://www.bfi.org.uk/lists/10-great-horror-sequels); The Revenge of Frankenstein section.
+- **b02-horner** — Who composed the score for Aliens (1986)? **James Horner.** [Source](https://www.bfi.org.uk/lists/10-great-horror-sequels); Aliens section.
+- **b02-stab** — What is the film-within-the-film called in Scream 2 (1997)? **Stab.** [Source](https://www.bfi.org.uk/lists/10-great-horror-sequels); Scream 2 section.
+- **b02-memento** — What kind of school is the setting of Memento Mori (1999)? **An all-girls high school.** [Source](https://www.bfi.org.uk/lists/10-great-horror-sequels); Memento Mori section.
+- **b02-doctorsleep** — Which earlier horror film does Doctor Sleep (2019) continue? **The Shining.** [Source](https://www.bfi.org.uk/lists/10-great-horror-sequels); Doctor Sleep section.
+- **b02-nostromo** — What is the spaceship called in Alien (1979)? **Nostromo.** [Source](https://www.bfi.org.uk/lists/10-great-lovecraftian-horror-films); Alien section.
+- **b02-giger** — Which Swiss artist designed the creature in Alien (1979)? **H. R. Giger.** [Source](https://www.bfi.org.uk/lists/10-great-lovecraftian-horror-films); Alien section.
+- **b02-thing** — What makes the creature in The Thing (1982) so hard to identify? **It can imitate other organisms.** [Source](https://www.bfi.org.uk/lists/10-great-lovecraftian-horror-films); The Thing section.
+- **b02-uzumaki** — Which recurring shape haunts the town in Uzumaki (2000)? **Spirals.** [Source](https://www.bfi.org.uk/lists/10-great-lovecraftian-horror-films); Uzumaki section.
+- **b02-mist** — Where do the survivors shelter in The Mist (2007)? **A supermarket.** [Source](https://www.bfi.org.uk/lists/10-great-lovecraftian-horror-films); The Mist section.
+- **b02-shimmer** — What is the mysterious altered zone called in Annihilation (2018)? **The Shimmer.** [Source](https://www.bfi.org.uk/lists/10-great-lovecraftian-horror-films); Annihilation section.
+- **b02-arcadia** — What is the cult's camp called in The Endless (2017)? **Camp Arcadia.** [Source](https://www.bfi.org.uk/lists/10-great-lovecraftian-horror-films); The Endless section.
+- **b02-wraith** — Which country's lore calls a ghostly double a wraith? **Scotland.** [Source](https://www.merriam-webster.com/dictionary/wraith); Did You Know: Scottish lore.
+- **b02-boggart** — Besides a malicious ghost, what field figure can the word boggart mean? **A scarecrow.** [Source](https://www.merriam-webster.com/dictionary/boggart); Definitions 1 and 2.
+- **b02-bogeyman** — The bogeyman is traditionally invoked to frighten which age group? **Children.** [Source](https://www.merriam-webster.com/dictionary/bogeyman); Definition.
+- **b02-gremlin** — Which mischievous beings were blamed for aircraft malfunctions? **Gremlins.** [Source](https://www.merriam-webster.com/dictionary/gremlin); Definition.
+- **b02-ogre** — An ogre is a monstrous kind of what towering fairy-tale being? **A giant.** [Source](https://www.merriam-webster.com/dictionary/ogre); Definition 1.
+- **b02-gnome** — What do underground gnomes traditionally guard? **Treasure.** [Source](https://www.merriam-webster.com/dictionary/gnome); Definition 1.
+- **b02-pixie** — Which mischievous sprite lends its name to a very short haircut? **A pixie.** [Source](https://www.merriam-webster.com/dictionary/pixie); Definitions: sprite and haircut.
+- **b02-imp** — What three-letter word means a small demon or a mischievous child? **Imp.** [Source](https://www.merriam-webster.com/dictionary/imp); Definitions.
+- **b02-sylph** — In Paracelsus's elemental system, sylphs belong to which element? **Air.** [Source](https://www.merriam-webster.com/dictionary/sylph); Definition 1.
+- **b02-undine** — An undine belongs to which of the classical elements? **Water.** [Source](https://www.merriam-webster.com/dictionary/undine); Definition.
+- **b02-salamander** — What could a mythical salamander endure unharmed? **Fire.** [Source](https://www.merriam-webster.com/dictionary/salamander); Definition: mythical animal.
+- **b02-phoenix** — Which legendary bird is reborn from its own ashes? **The phoenix.** [Source](https://www.merriam-webster.com/dictionary/phoenix); Definition 1.
+- **b02-griffin** — Which big cat supplies a griffin's body and hind legs? **A lion.** [Source](https://www.merriam-webster.com/dictionary/griffin); Definition.
+- **b02-wyvern** — How many legs does a heraldic wyvern have? **Two.** [Source](https://www.merriam-webster.com/dictionary/wyvern); Definition.
+- **b02-hippogriff** — A hippogriff combines a griffin's foreparts with the body of which animal? **A horse.** [Source](https://www.merriam-webster.com/dictionary/hippogriff); Definition.
+- **b02-naiad** — Do naiads inhabit fresh water or salt water in Greek mythology? **Fresh water.** [Source](https://www.merriam-webster.com/dictionary/naiad); Definition: rivers, springs, fountains and lakes.
+- **b02-dryad** — The word dryad comes from the Greek name for which tree? **The oak.** [Source](https://www.merriam-webster.com/dictionary/dryad); Etymology: drys.
+- **b02-centaur** — Which Greek creature has a human upper body and a horse's lower body? **A centaur.** [Source](https://www.merriam-webster.com/dictionary/centaur); Definition.
+- **b02-satyr** — With which Greek god's revelry are satyrs associated? **Dionysus.** [Source](https://www.merriam-webster.com/dictionary/satyr); Definition and Did You Know.
+- **b02-faun** — Fauns belong to which ancient civilization's mythology? **Ancient Rome.** [Source](https://www.merriam-webster.com/dictionary/faun); Definition: Roman deity.
+- **b02-pegasus** — Which winged horse creates Hippocrene with a blow of its hoof? **Pegasus.** [Source](https://www.merriam-webster.com/dictionary/Pegasus); Did You Know: fountain on Mount Helicon.
+- **b02-siren** — How do the sirens of Greek mythology lure sailors? **With their singing.** [Source](https://www.merriam-webster.com/dictionary/siren); Definition 1.
+- **b02-bunyip** — The swamp-dwelling bunyip comes from which country's folklore? **Australia.** [Source](https://www.merriam-webster.com/dictionary/bunyip); Definition.
+- **b02-aswang** — The supernatural aswang belongs to the folklore of which country? **The Philippines.** [Source](https://www.merriam-webster.com/dictionary/aswang); Definition.
+- **b02-naga** — Nagas in Hindu and Buddhist traditions combine human qualities with which animal? **A serpent.** [Source](https://www.merriam-webster.com/dictionary/naga); Definition: semidivine beings.
+- **b02-wells** — Who wrote the novel The Invisible Man? **H. G. Wells.** [Source](https://www.gutenberg.org/files/5230/5230-h/5230-h.htm); Title and author.
+- **b02-griffinname** — What is the invisible scientist's surname in Wells's novel? **Griffin.** [Source](https://www.gutenberg.org/files/5230/5230-h/5230-h.htm); Chapter XVII: identifies himself to Kemp.
+- **b02-iping** — Which village receives the mysterious stranger at the start of The Invisible Man? **Iping.** [Source](https://www.gutenberg.org/files/5230/5230-h/5230-h.htm); Chapter I.
+- **b02-coach** — At which inn does the stranger lodge in The Invisible Man's opening chapter? **The Coach and Horses.** [Source](https://www.gutenberg.org/files/5230/5230-h/5230-h.htm); Chapter I.
+- **b02-bandages** — What wraps the stranger's forehead and ears in The Invisible Man? **White bandages.** [Source](https://www.gutenberg.org/files/5230/5230-h/5230-h.htm); Chapter I: Mrs. Hall observes his face.
+- **b02-simon** — What is the ghost's name in The Canterville Ghost? **Sir Simon de Canterville.** [Source](https://www.gutenberg.org/files/14522/14522-h/14522-h.htm); Chapter I: housekeeper identifies the ghost.
+- **b02-otis** — The Otis family in The Canterville Ghost comes from which country? **The United States.** [Source](https://www.gutenberg.org/files/14522/14522-h/14522-h.htm); Chapter I: American Minister and family.
+- **b02-virginia** — What is the Otis daughter's first name in The Canterville Ghost? **Virginia.** [Source](https://www.gutenberg.org/files/14522/14522-h/14522-h.htm); Chapter I and illustration caption.
+- **b02-lubricator** — What does Mr. Otis offer to quiet the ghost's chains? **Lubricating oil.** [Source](https://www.gutenberg.org/files/14522/14522-h/14522-h.htm); Chapter II: Rising Sun Lubricator.
+- **b02-prendick** — Who narrates his island ordeal in The Island of Doctor Moreau? **Edward Prendick.** [Source](https://www.gutenberg.org/files/159/159-h/159-h.htm); Introduction and story attribution.
+- **b02-ladyvain** — Which wrecked ship leaves Prendick adrift at the start of Doctor Moreau? **The Lady Vain.** [Source](https://www.gutenberg.org/files/159/159-h/159-h.htm); Introduction and Chapter I.
+- **b02-law** — In Doctor Moreau, the Beast Folk's refrain asks: Are we not what? **Men.** [Source](https://www.gutenberg.org/files/159/159-h/159-h.htm); Chapter XII: recitation of the Law.
+- **b02-moreaumedic** — What profession did Prendick's rescuer study before joining Moreau? **Medicine.** [Source](https://www.gutenberg.org/files/159/159-h/159-h.htm); Chapter II: medical man; Chapter XIX: five years studying medicine.
+- **b02-emily** — Which Bronte sister wrote Wuthering Heights? **Emily Bronte.** [Source](https://www.gutenberg.org/files/768/768-h/768-h.htm); Title and author.
+- **b02-lockwood** — Who introduces himself as Heathcliff's new tenant in Wuthering Heights? **Mr. Lockwood.** [Source](https://www.gutenberg.org/files/768/768-h/768-h.htm); Chapter I.
+- **b02-grange** — Which property does Lockwood rent in Wuthering Heights? **Thrushcross Grange.** [Source](https://www.gutenberg.org/files/768/768-h/768-h.htm); Chapter I.
+- **b02-catherine** — What first name does the ghostly visitor give in Lockwood's nightmare? **Catherine.** [Source](https://www.gutenberg.org/files/768/768-h/768-h.htm); Chapter III: Catherine Linton at the window.
+- **b02-mrjames** — Who wrote Ghost Stories of an Antiquary? **M. R. James.** [Source](https://www.gutenberg.org/files/8486/8486-h/8486-h.htm); Title and author.
+- **b02-dennistoun** — What is the visiting antiquary called in Canon Alberic's Scrap-book? **Dennistoun.** [Source](https://www.gutenberg.org/files/8486/8486-h/8486-h.htm); Canon Alberic's Scrap-book opening.
+- **b02-parkins** — What academic title does Parkins hold in Oh, Whistle, and I'll Come to You? **Professor.** [Source](https://www.gutenberg.org/files/8486/8486-h/8486-h.htm); Oh, Whistle section: Professor Parkins.
+- **b02-mezzotint** — What kind of artwork changes mysteriously in The Mezzotint? **An engraving.** [Source](https://www.gutenberg.org/files/8486/8486-h/8486-h.htm); The Mezzotint: Williams and Binks examine the print.
+- **b02-gilman** — Who wrote The Yellow Wallpaper? **Charlotte Perkins Gilman.** [Source](https://www.gutenberg.org/files/1952/1952-h/1952-h.htm); Title and author.
+- **b02-wallpaperdoctor** — What is the narrator's husband's profession in The Yellow Wallpaper? **Physician.** [Source](https://www.gutenberg.org/files/1952/1952-h/1952-h.htm); Opening: husband and brother both physicians.
+- **b02-machen** — Who wrote The Great God Pan? **Arthur Machen.** [Source](https://www.gutenberg.org/files/389/389-h/389-h.htm); Title and author.
+- **b02-raymond** — Which doctor conducts the opening experiment in The Great God Pan? **Dr. Raymond.** [Source](https://www.gutenberg.org/files/389/389-h/389-h.htm); Chapter I: The Experiment.
+- **b02-welshmidnight** — In a Welsh Halloween belief, at what hour might spirits appear on stiles? **Midnight.** [Source](https://museum.wales/blog/1857/Halloween-Traditions/); Nos Calan Gaeaf: midnight stiles.
+- **b02-ladiwen** — What color is the lady in the Welsh ghost name ladi wen? **White.** [Source](https://museum.wales/blog/1857/Halloween-Traditions/); Halloween spirits: white lady.
+- **b02-hwrdd** — What animal is the Welsh Halloween apparition hwch ddu gwta? **A sow, or female pig.** [Source](https://museum.wales/blog/1857/Halloween-Traditions/); Halloween spirits: tail-less black sow.
+- **b02-peel** — In Welsh Halloween divination, what was a tossed apple peel meant to reveal? **A future spouse's initial.** [Source](https://museum.wales/blog/1857/Halloween-Traditions/); Divination customs: apple peel.
+- **b02-witchbottle** — Why were witch bottles concealed in buildings? **To ward off evil spirits.** [Source](https://museum.wales/blog/1857/Halloween-Traditions/); Witch bottles in building walls.
+- **b02-divination** — What word means attempting to foretell the future through signs or rituals? **Divination.** [Source](https://www.vam.ac.uk/blog/news/halloween-and-divination); Introduction: fortune telling.
+- **b02-sand** — Which material gives Arabic ilm al-raml, a form of geomancy, its name? **Sand.** [Source](https://www.vam.ac.uk/blog/news/halloween-and-divination); Science of sand; sand boards.
+- **b02-tableau** — How many positions form the geomantic tableau described by the V&A? **Sixteen.** [Source](https://www.vam.ac.uk/blog/news/halloween-and-divination); Geomantic tableau explanation.
+- **b02-dice** — Which small numbered objects accompany the V&A's Iranian lot-casting plaque? **Dice.** [Source](https://www.vam.ac.uk/blog/news/halloween-and-divination); Iranian plaque and dice, 1600-1700; fa'l.
+- **b02-beans** — Which roasted beans are scattered during Japanese Setsubun? **Soybeans.** [Source](https://nbpl.org/setsubun-a-japanese-bean-throwing-festival/); Mamemaki: roasted soybeans.
+- **b02-oni** — Which ogre-like beings are driven away in Setsubun rituals? **Oni.** [Source](https://nbpl.org/setsubun-a-japanese-bean-throwing-festival/); Oni masks and bean throwing.
+- **b02-spring** — Setsubun marks the eve of which season in the traditional Japanese calendar? **Spring.** [Source](https://nbpl.org/setsubun-a-japanese-bean-throwing-festival/); Day before the beginning of spring.
+- **b02-holly** — Which prickly plant joins a fish head in the Setsubun charm hiiragi iwashi? **Holly.** [Source](https://nbpl.org/setsubun-a-japanese-bean-throwing-festival/); Hiiragi iwashi custom.
+- **b02-ehomaki** — What is the special sushi roll eaten whole at Setsubun called? **Ehomaki.** [Source](https://nbpl.org/setsubun-a-japanese-bean-throwing-festival/); Ehomaki custom.
+- **b02-chickenfeed** — Candy corn was once marketed under what barnyard-inspired name? **Chicken Feed.** [Source](https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/); Candy Corn section.
+- **b02-familiar** — What term describes a witch's animal assistant in folklore? **A familiar.** [Source](https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/); Black Cats section.
+- **b02-belsnickel** — Belsnickeling was a masked visiting custom associated with which holiday? **Christmas.** [Source](https://blogs.loc.gov/headlinesandheroes/2021/10/the-origins-of-halloween-traditions/); Trick-or-Treating section: German-American custom.
+- **b02-namahagedate** — On which night do Oga's traditional namahage visit homes? **New Year's Eve.** [Source](https://www.japan.travel/en/japan-magazine/1902_namahage/); Opening and home visits.
+- **b02-namahageregion** — Oga's namahage tradition belongs to which Japanese prefecture? **Akita.** [Source](https://www.japan.travel/en/japan-magazine/1902_namahage/); Opening: Oga, Akita Prefecture.
+- **b02-namahagestraw** — What material falls from namahage costumes and is collected for good health? **Straw.** [Source](https://www.japan.travel/en/japan-magazine/1902_namahage/); Costume kede and fallen straw.
+- **b02-namahageluck** — Despite their frightening appearance, what do namahage bring to families? **Good luck.** [Source](https://www.japan.travel/en/japan-magazine/1902_namahage/); Benevolent spirits ward off tragedy.
+- **b02-surovacountry** — Pernik's masked Surova folk feast takes place in which country? **Bulgaria.** [Source](https://www.unesco.org/archives/multimedia/document-4031); Place/region and film description.
+- **b02-surovamonth** — In which month is Pernik's Surova folk feast celebrated? **January.** [Source](https://www.unesco.org/archives/multimedia/document-4031); Description: January 13 and 14.
+- **b02-survakari** — What are the masquerade groups at the Surova folk feast called? **Survakari.** [Source](https://www.unesco.org/archives/multimedia/document-4031); Description: masquerade group.
+- **b02-surovabear** — Which animal character playfully mauls people for good health at Surova? **A bear.** [Source](https://www.unesco.org/archives/multimedia/document-4031); Description: ritual bear character.
