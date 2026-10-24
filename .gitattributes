@@ -1,0 +1,2 @@
+# Preserve the tested stylesheet bytes across checkout platforms.
+style.css -text

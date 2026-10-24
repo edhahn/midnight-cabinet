@@ -39,7 +39,7 @@ No director-identification questions are allowed. Actor/casting/voice/narration 
 
 Production URL: https://midnight-cabinet-one.vercel.app/
 
-Use the existing Hahn Enterprises project midnight-cabinet. Configure the Git repository edhahn/midnight-cabinet with production branch main, project root repository root, framework Other, build command npm run build, and output directory dist. The repository configuration is in vercel.json. Do not create a second project or change the domain. Git auto-deployment setup is verified separately; this README does not claim it is already connected.
+Use the existing Hahn Enterprises project midnight-cabinet. Configure the Git repository edhahn/midnight-cabinet with production branch main, project root repository root, framework Other, build command npm run build, and output directory dist. The repository configuration is in vercel.json. Do not create a second project or change the domain. The repository is connected to this existing project; commits to the production branch trigger deployments.
 
 After a READY deployment, run node scripts/release-smoke.mjs against the production URL and set DEPLOYMENT_ID to the actual new ID when running node scripts/verify-deploy.mjs. Verification compares every dist file to production by SHA-256.
 
